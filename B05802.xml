@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Carmen encomiasticum] or, An elogium consecreated to the right honourable Sir Robert Viner Lord Mayor of the most ancient and most flourishing emporium of the world the honourable city London for this prsent [sic] year, 1674.</title>
+            <author>Settle, Elkanah, 1648-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05802</idno>
+            <idno type="STC">Wing S2668</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.3[154]</idno>
+            <idno type="EEBO-CITATION">99885228</idno>
+            <idno type="PROQUEST">ocm99885228</idno>
+            <idno type="VID">182638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182638)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:1[154])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Carmen encomiasticum] or, An elogium consecreated to the right honourable Sir Robert Viner Lord Mayor of the most ancient and most flourishing emporium of the world the honourable city London for this prsent [sic] year, 1674.</title>
+                  <author>Settle, Elkanah, 1648-1724.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: E.S. [i.e. Elkanah Settle].</note>
+                  <note>Imprint and portion of title suggested by Wing.</note>
+                  <note>Verse: "Great wise, and pollitick, to you it is ..."</note>
+                  <note>Imperfect: stained and folded, affecting title and text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Viner, Robert, --  Sir, 1631-1688 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-06</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:182638:1"/>
+            <!-- PDF PAGE 20 -->
+            <head>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> OR AN ELOGIUM Conſecreated to the Right Honourable Sir Robert Viner Lord Mayor of the moſt Ancient and moſt Flouriſhing EMPORIUM of the World the Honourable City LONDON For this Prſent Year 1694</head>
+            <l>GReat Wiſe, and Pollitick, to you it is,</l>
+            <l>The Lord of <hi>Albions</hi> rich <hi>Metropolis:</hi>
+            </l>
+            <l>To you, our matchleſs Parents Eldeſt Son</l>
+            <l>And you, great Senators, of this new <hi>Rome</hi>
+            </l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>from <hi>Apollo's</hi> lofty Mount am ſent</l>
+            <l>With <hi>Bayes</hi> to Crown your civill Government:</l>
+            <l>From whoſe more wiſe than <hi>Greek,</hi> or <hi>Roman</hi> Souls,</l>
+            <l>Laws Stand preſcrib'd to the Remoteſt poles.</l>
+            <l>In each of you, this day, ſeems to take reſt</l>
+            <l>A <hi>Solous</hi> Soul, and deep <hi>Lycurgus</hi> Breſt,</l>
+            <l>Compriſing in your <hi>Sage</hi> Election,</l>
+            <l>The Epitome of their perfection;</l>
+            <l>In framing which, Nature, and Prudence both</l>
+            <l>Combin'd, his better <hi>Genius</hi> to ſet forth</l>
+            <l>This <hi>Jubely</hi> (by an exceſs of Joy</l>
+            <l>Transported) to Reiterate, this day</l>
+            <l>Our Antient Citty, Juſt and unanimous,</l>
+            <l>Doth conſecrate her ſelf, to you, her Spouſe,</l>
+            <l>Commanding me, in verſe to entertaine</l>
+            <l>You, and your <hi>Senatorial-Scarlet</hi> traine.</l>
+            <l>Behold, her Houſhold Gods preſented ſtand,</l>
+            <l>At every door ready at your command,</l>
+            <l>And richeſt Chariots (as in Triumph) croud,</l>
+            <l>Whilſt Streets are fill'd with acclamations lowd.</l>
+            <l>S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e how the Silver-Flooded <hi>Thames</hi> del<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghts</l>
+            <l>To Ty<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you in; Proud of her glorious freights,</l>
+            <l>Swell's and grows bigge: whilſt, in a greatful traine;</l>
+            <l>Each Veſſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ploughs her freſh and curled Maine.</l>
+            <l>Here fiery <hi>Mars,</hi> breaths from his Iron lungs</l>
+            <l>In thundring Tones, ſmart <hi>Sulphur</hi>-uttering Songs;</l>
+            <l>There from his Braſty, thin, and warbling <hi>Throate,</hi>
+            </l>
+            <l>A ſofter ſtraine, and more melodious Note.</l>
+            <l>The <hi>Western-Minſter</hi> firſt, by their command,</l>
+            <l>Saint <hi>Martin</hi> next, then <hi>Clement</hi> in the <hi>Stand:</hi>
+            </l>
+            <l>
+               <hi>Southern</hi> Saint <hi>Mary,</hi> on the other ſide,</l>
+            <l>And Dunſton by the <hi>Temple;</hi> as you glide,</l>
+            <l>All, with a lowd but pleaſant <hi>Muſick</hi> Note</l>
+            <l>Ring in your welcome Golden-Stemmed Boat.</l>
+            <l>And when arriv'd, Repleat with aged paine,</l>
+            <l>Decrepid <hi>Paul,</hi> tinkles his portick ſtraine,</l>
+            <l>Troubled that younger Steeples ſhould out-vy</l>
+            <l>Him, in their Lowd and lofty Harmony</l>
+            <l>Yet <hi>Phoenix</hi> like, i'th ruines of his fire,</l>
+            <l>(The only relique of that Heavenly <hi>Ire</hi>)</l>
+            <l>Hatch'd your Zeal, he hopes in better ſhape</l>
+            <l>From older Obſequies new birth to take.</l>
+            <l>Old aged Father <hi>Lud,</hi> next leads you on</l>
+            <l>To <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat you in his Cituation:</l>
+            <l>Gear <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arles</hi> his Monument amaz'd to ſee,</l>
+            <l>And <hi>Lumbards Temple,</hi> lately built by thee:</l>
+            <l>Whole multitudes on each ſide crowd the way.</l>
+            <l>To view their Father; and obſerve his day;</l>
+            <l>Not much unlike to that Elated glory,</l>
+            <l>Read in the <hi>Roman,</hi> or <hi>Athenian</hi> Story;</l>
+            <l>Who, when the Body politique, made choice</l>
+            <l>Of Emperours; clean'd to the publick voice,</l>
+            <l>And by that univerſall acclamation</l>
+            <l>Eſtabliſh'd Governours to rule each Nation;</l>
+            <l>Juſtice preſents you with het ballance Blind:</l>
+            <l>But juſtly equall as your upright mind:</l>
+            <l>And whilſt, ſeverity, to temperate</l>
+            <l>With her and ſweet Harmony, you moderate,</l>
+            <l>In mercifull, and yet in even Zeale,</l>
+            <l>VVith this, you ſtrike the ſtroake, with that, you heale</l>
+            <l>
+               <hi>
+                  <unclear>Diviter</unclear>
+               </hi>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your peerles<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> piety</l>
+            <l>The ſober <hi>Citizens,</hi> your Charity,</l>
+            <l>The Court, and Camp, by you have favour had</l>
+            <l>The good a Crown, their Juſt reward the bad,</l>
+            <l>Your prudent wiſdome bears an equal ſhare</l>
+            <l>VVith <hi>Fortitude:</hi> when Judge of all you are:</l>
+            <l>For this gives courage, whilſt the other ſtands</l>
+            <l>Firme in reſolving to diſpence commands.</l>
+            <l>Here Crowning Vertue, there correcting Vice,</l>
+            <l>You, in this bounty, in that Auarice,</l>
+            <l>Check, and encourage; with an open hand,</l>
+            <l>Feeding the needy which before you ſtand,</l>
+            <l>So are your laws by prudence fortifi'd.</l>
+            <l>By Mercy, Zeal, and Juſtice magnifi'd:</l>
+            <l>In Vertuous Vigilancy limitleſs,</l>
+            <l>In Charity, and bounty Fathomleſs,</l>
+            <l>Go on, Great <hi>Prator</hi> then, thus qualifi'd</l>
+            <l>VVith morall Vertues, and thus ratifi'd</l>
+            <l>VVith Reaſons laws: Go on undaunted, ſtout:</l>
+            <l>And ſteer this Citty's helme your Courſe throughout:</l>
+            <l>Live, whilſt your Monuments to <hi>Church,</hi> and <hi>King</hi>
+            </l>
+            <l>In mortall ſtand: may after Ages ſing</l>
+            <l>Your glorious deeds: and Poets more divine</l>
+            <l>(Fill'd with the <hi>Juice</hi> that flow's from your rich <hi>Vine</hi>)</l>
+            <l>Whole Volumes write, and deck with Golden veine</l>
+            <l>Of their rich Verſe, and Silver <hi>Muſes</hi> ſtraine,</l>
+            <l>That when cold Fate ſhall cloſe your mortall Eyes,</l>
+            <l>And Angells guard your Soul to Paradiſe,</l>
+            <l>Bright <hi>Albiones chronicles</hi> with matchleſs fame</l>
+            <l>M'Embalme th'Story, of your Immortall Name.</l>
+            <epigraph>
+               <q>Sic vaticinatur appre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aturque Poeta</q>
+            </epigraph>
+            <closer>
+               <signed> And your Lordſhips moſt Humble and moſt Obedient Servant <hi>E. S</hi> 
+                  <add>i e. Elkanah Settle.</add>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
